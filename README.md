@@ -1,6 +1,4 @@
-============================================
-COVID-19 Global Data Tracker – README
-============================================
+# COVID-19 Global Data Tracker – README
 
 📝 Project Description:
 This project is a data analysis notebook that tracks the global impact of COVID-19 using real-world datasets. It includes data exploration, cleaning, visualization, and key insights about cases, deaths, and vaccinations across countries.
@@ -13,10 +11,11 @@ This project is a data analysis notebook that tracks the global impact of COVID-
 - Summarize findings with narrative insights
 
 📁 Project Structure:
-.
+```
 ├── covid19_data_tracker.ipynb     ← Main Jupyter Notebook
 ├── owid-covid-data.csv            ← Dataset (Our World in Data)
-├── README.txt                     ← Project documentation (this file)
+└── README.txt                     ← Project documentation (this file)
+```
 
 📦 Requirements:
 - Python 3.7+
